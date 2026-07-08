@@ -171,7 +171,7 @@
 }
 
 .icon--menu {
-  background-image: url("/src/styles/images/icons/icon-burger.svg");
+  background-image: url("/src/styles/images/icons/icon-burger-menu-hover.svg");
 }
 
 .icon--menu:hover {

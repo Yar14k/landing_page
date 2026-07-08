@@ -3,6 +3,7 @@
     max-width: 1020px;
     transition: transform 0.3s;
     width: 100%;
+    cursor: pointer;
     &:hover {
       transform: scale(1.05);
     }

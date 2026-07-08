@@ -4,7 +4,7 @@
   padding-block: 92px;
   background-color: #1d1d1d;
   box-sizing: border-box;
-  margin-bottom: 555px;
+  margin-bottom: 200px;
   z-index: 2;
 
   @include content-padding-inline;
@@ -12,10 +12,12 @@
   @include on-desktop {
     max-width: none;
     margin-inline: 0;
+    margin-bottom: 555px;
   }
 
   @include on-tablet {
     padding-block: 120px;
     row-gap: 120px;
+    margin-bottom: 480px;
   }
 }

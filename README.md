@@ -23,6 +23,22 @@ The layout is responsive and focuses on clean structure, smooth interactions, an
 - Pseudo-classes and pseudo-elements for advanced styling and interactions
 - Text styling and typography optimization
 
+## Getting Started
+
+- To run this project locally, follow these steps:
+
+# Clone the repository
+- git clone <repository-url>
+
+# Navigate to the project directory
+- cd <project-folder>
+
+# Install dependencies
+- npm install
+
+# Start the development server
+- npm start
+
 ## DEMO LINK
 
 - [DEMO LINK](https://Yar14k.github.io/landing_page/)
