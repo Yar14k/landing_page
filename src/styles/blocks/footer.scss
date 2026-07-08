@@ -3,9 +3,6 @@
   height: 200px;
   background-position: top;
   background-size: cover;
-  position: sticky;
-  z-index: -1;
-  bottom: 0;
 
   @include on-desktop {
     height: 480px;
