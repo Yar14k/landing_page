@@ -1,10 +1,12 @@
 .footer {
   height: 200px;
+  width: 100%;
   background-image: url(/src/styles/images/footer.png);
   background-position: top;
   background-size: cover;
   position: fixed;
   bottom: 0;
+  z-index: -1;
 
   @include on-desktop {
     height: 480px;

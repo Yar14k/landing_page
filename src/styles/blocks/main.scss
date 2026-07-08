@@ -5,6 +5,7 @@
   background-color: #1d1d1d;
   box-sizing: border-box;
   margin-bottom: 200px;
+  z-index: 2;
 
   @include content-padding-inline;
 
