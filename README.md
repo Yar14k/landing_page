@@ -27,16 +27,16 @@ The layout is responsive and focuses on clean structure, smooth interactions, an
 
 - To run this project locally, follow these steps:
 
-# Clone the repository
+ Clone the repository
 - git clone <repository-url>
 
-# Navigate to the project directory
+ Navigate to the project directory
 - cd <project-folder>
 
-# Install dependencies
+ Install dependencies
 - npm install
 
-# Start the development server
+ Start the development server
 - npm start
 
 ## DEMO LINK
