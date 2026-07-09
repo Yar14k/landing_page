@@ -1,4 +1,4 @@
-### MYBIKE landing page
+# MYBIKE landing page
 
 This project is a landing page designed as a modern card-style website.
 
