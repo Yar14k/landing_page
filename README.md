@@ -3,6 +3,10 @@
 This project is a landing page designed as a modern card-style website.
 
 The website showcases different types of bicycles with detailed product information. It also includes a contact form and contact details at the bottom of the page, allowing customers to get answers to their questions and easily get in touch.
+
+## 🎨 Figma Design
+ Design: [MYBIKE landing] (https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=sUvHwvB3TVS6UGjD-0)
+
 ## Technologies
 
 - HTML5
@@ -39,5 +43,3 @@ To run this project locally, follow these steps:
 ## Live Demo
 
 - Experience the live website: [DEMO LINK](https://Yar14k.github.io/landing_page/)
-
-
