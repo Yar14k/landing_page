@@ -11,7 +11,7 @@ The website showcases different types of bicycles with detailed product informat
 ## Technologies
 
 - HTML5
-- SCSS
+- SCSS/SASS
 - JavaScript (ES6)
 - CSS Modules
 - ESLint
