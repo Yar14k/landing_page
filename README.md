@@ -22,7 +22,7 @@ The website showcases different types of bicycles with detailed product informat
 
 ## Getting Started
 
-- To run this project locally, follow these steps:
+To run this project locally, follow these steps:
 
  1. Clone the repository
 - git clone <repository-url>
