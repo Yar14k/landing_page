@@ -43,6 +43,18 @@
       outline: none;
       color: black;
       border: 0;
+      
+      &:-webkit-autofill {
+      -webkit-box-shadow: 0 0 0 1000px #f8f8fa inset;
+      -webkit-text-fill-color: black;;
+    }
+
+    &:-webkit-autofill:hover,
+    &:-webkit-autofill:focus,
+    &:-webkit-autofill:active {
+      -webkit-box-shadow: 0 0 0 1000px #f8f8fa inset;
+      -webkit-text-fill-color: black;
+    }
 
       &::placeholder {
         color: black;
