@@ -43,7 +43,7 @@
           class="top-bar__logo-link"
         >
           <img
-            src="./styles/images/logo.png"
+            src="./styles/images/logo.svg"
             alt="MyBike logo"
             class="top-bar__logo"
           />
@@ -324,7 +324,9 @@
 
       <section class="contacts">
         <h2 class="contacts__title">Contact us</h2>
-        <form onsubmit="this.reset(); return false;" class="contacts__fields">
+        <form onsubmit="this.reset(); return false;" 
+        class="contacts__fields" 
+        autocomplete="off">
           <input
         type="text"
         placeholder="Name"
@@ -333,7 +335,9 @@
           <input
         type="email"
         placeholder="Email"
-        class="contacts__fields__input" required>
+        class="contacts__fields__input" required
+        autocomplete="off"
+        >
 
           <input
         type="text"
